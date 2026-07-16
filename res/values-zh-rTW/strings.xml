@@ -174,7 +174,9 @@
     <string name="alert_slider_mode_dnd_priority_only">僅限優先</string>
     <string name="alert_slider_mode_dnd_total_silence">完全靜音</string>
     <string name="alert_slider_mode_dnd_alarms_only">僅限鬧鐘</string>
-    <string name="alert_slider_mute_media_title">靜音 (包含媒體音量)</string>
+    <string name="alert_slider_mode_torch_on">開啓手電筒</string>
+    <string name="alert_slider_mode_torch_off">關閉手電筒</string>
+    <string name="alert_slider_mute_media_title">靜音時包含媒體音量</string>
     <string name="alert_slider_mute_media_summary">切換為靜音時同時將媒體靜音</string>
     <string name="alert_slider_notification_dialog_title">顯示滑桿對話方塊</string>
     <string name="alert_slider_notification_dialog_summary">警示滑桿位置改變時顯示對話方塊</string>
